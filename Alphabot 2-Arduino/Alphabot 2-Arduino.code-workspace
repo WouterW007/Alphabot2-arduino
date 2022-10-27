@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"remote_control_with_app_Bluetooth": "cpp"
+		}
+	}
+}
